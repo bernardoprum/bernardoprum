@@ -13,4 +13,4 @@ Meryto reads every job posting in the Mexican market, understands each candidate
 
 I work on several projects, all in private repos — most of it in the [MerytoInc](https://github.com/MerytoInc) org. The contribution graph below shows that activity without exposing any code.
 
-📍 Mexico City
+📍 Mexico City · [LinkedIn](https://www.linkedin.com/in/bernardo-prum-a7844321/)
